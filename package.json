@@ -1,0 +1,19 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "<img src=\"media/11.jpg\" width=\"800\"/>",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-expandable-chapters-interactive": "^0.1.0",
+    "gitbook-plugin-html5-video": "^1.0.0",
+    "gitbook-plugin-livereload": "^4.0.0-alpha.6",
+    "gitbook-plugin-sectionx": "^2.1.0",
+    "gitbook-plugin-local-video": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

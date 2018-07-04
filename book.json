@@ -1,0 +1,11 @@
+ {
+     "title":"H5前端学习",
+     "author":"JX",
+     "gitbook":"2.x.x",
+     "plugins": [
+          "sectionx",
+          "expandable-chapters-interactive",
+          "-html5-video",
+          "-local-video"
+     ]
+ }
